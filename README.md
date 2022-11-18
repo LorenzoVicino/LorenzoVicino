@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LorenzoVicino
+- 👀 I’m interested to be the best version of myself everyday
+- 🌱 I’m currently learning how to be a better programmer and how to work in team!
+- 📫 How to reach me => imlorenzovicino@gmail.com 
