@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Vicino</h1>
 <h3 align="center">A fullstack developer from southern Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzovicino&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzovicino" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorenzovicino" alt="lorenzovicino" /></a> </p>
 
 - 🔭 I’m currently working on [GTFleet 365 platform](https://macnil.it/brand/gt-fleet-365/)
 
