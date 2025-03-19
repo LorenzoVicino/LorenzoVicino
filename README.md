@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Full stack development at its best**
 
+- ❤️ I'm obsessed with **Design Patterns** and this is my favourite <a href="https://refactoring.guru/" target="blank" > website </a> !
+
 - ⚡ Fun fact **I love tennis and running**
 
 <h3 align="left">Connect with me:</h3>
