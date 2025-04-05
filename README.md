@@ -8,7 +8,7 @@
 
 - ❤️ I'm obsessed with **Design Patterns** and this is my favourite <a href="https://refactoring.guru/" target="blank" > website </a> !
 
-- ⚡ Fun fact **I love tennis and running**
+- ⚡ Fun fact **I love running and tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
