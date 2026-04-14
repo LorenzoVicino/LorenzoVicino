@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Vicino</h1>
 <h3 align="center">A fullstack developer from southern Italy</h3>
-- I’m currently working on [GTFleet 365 platform](https://macnil.it/brand/gt-fleet-365/)
-- I’m currently learning **Software development at its best**
-- I'm obsessed with **Design Patterns** and this is my favourite <a href="https://refactoring.guru/" target="blank" > website </a> !
-- Hobbies: **gaming, tennis, running**
+  <ul>
+    <li>I’m currently working on <a href="https://macnil.it/brand/gt-fleet-365/">GTFleet 365 platform</a></li>
+    <li>I’m currently learning <strong>Software development at its best</strong></li>
+    <li>I'm obsessed with <strong>Design Patterns</strong> and this is my favourite <a href="https://refactoring.guru/" target="_blank">website</a>!</li>
+    <li>Hobbies: <strong>gaming, tennis, running</strong></li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
