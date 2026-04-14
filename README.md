@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Vicino</h1>
 <h3 align="center">A fullstack developer from southern Italy</h3>
-
-
-- 🔭 I’m currently working on [GTFleet 365 platform](https://macnil.it/brand/gt-fleet-365/)
-
-- 🌱 I’m currently learning **Full stack development at its best**
-
-- ❤️ I'm obsessed with **Design Patterns** and this is my favourite <a href="https://refactoring.guru/" target="blank" > website </a> !
-
-- ⚡ Fun fact **I love running and tennis**
+I’m currently working on [GTFleet 365 platform](https://macnil.it/brand/gt-fleet-365/)
+I’m currently learning **Software development at its best**
+I'm obsessed with **Design Patterns** and this is my favourite <a href="https://refactoring.guru/" target="blank" > website </a> !
+Hobbies: **gaming, tennis, running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
