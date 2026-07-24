@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lorenzo Vicino</h1>
-<h3 align="center">A software developer from Italy</h3>
+<h3 align="center">A software engineer from Italy</h3>
 
 - I’m currently working on [GTFleet 365 platform](https://gtfleet365.it/)
 
