@@ -7,8 +7,6 @@
 
 - I’m obsessed with [Design Patterns and this is my favourite website](https://refactoring.guru/)
 
-- On the side I’m writing [ludus](https://github.com/LorenzoVicino/ludus), a UCI chess engine in Java
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <ul>
@@ -38,7 +36,12 @@
   </picture>
 </p>
 
-<h3 align="left">Side project:</h3>
+<h3 align="left">Side projects:</h3>
+
+- **[repo-control](https://github.com/LorenzoVicino/repo-control)** — a local-first command center for inspecting, operating and automating multi-repository workspaces.
+
+- **[ludus](https://github.com/LorenzoVicino/ludus)** — a UCI chess engine in Java, in two acts: a classical engine, then a neural network evaluation replacing it. It keeps its own score:
+
 <p align="left">
   <a href="https://lorenzovicino.github.io/ludus/">
     <picture>
