@@ -46,9 +46,9 @@
   <a href="https://lorenzovicino.github.io/ludus/">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/LorenzoVicino/ludus/main/docs/card-dark.svg">
+              srcset="https://lorenzovicino.github.io/ludus/card-dark.svg">
       <img alt="ludus — a UCI chess engine in Java. Live status, measured Elo and perft results."
-           src="https://raw.githubusercontent.com/LorenzoVicino/ludus/main/docs/card-light.svg">
+           src="https://lorenzovicino.github.io/ludus/card-light.svg">
     </picture>
   </a>
 </p>
